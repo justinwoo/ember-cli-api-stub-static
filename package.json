@@ -8,5 +8,12 @@
   "description": "Addon to ember-cli to support serving JSON files as API endpoints",
   "author": "Justin Woo",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kimagure/ember-cli-api-stub-static.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kimagure/ember-cli-api-stub-static/issues"
+  },
   "homepage": "https://github.com/kimagure/ember-cli-api-stub-static"
 }
