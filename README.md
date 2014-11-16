@@ -20,3 +20,8 @@ ember-cli add-on for serving out static JSON files as "endpoints" along with the
 # Screenshot
 
 ![百聞は一見にしかず！](http://media-cache-ak0.pinimg.com/originals/c6/e3/58/c6e3589812702fc3e4c080dc7c651247.jpg)
+
+
+# Contributing
+
+If you have any feature requests or ideas on how this can be improved, please open an issue right away.
